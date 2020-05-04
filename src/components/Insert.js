@@ -88,5 +88,5 @@ export default class Insert extends Component {
         </form>
       </div>
     );
-  }
-}
+  };
+};
